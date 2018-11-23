@@ -1,23 +1,14 @@
 
-
-
-.banner{
-position: fixed;
-left:0;
-background-color:#c6efd3; 
-width: 100%;
-height:33%;}
-
-
-
-footer{
- position: fixed;
- left:0; bottom:0;
- background-color:#ebf5f8; 
- width: 100%;
- height: 15%;
+.navbar{
+height:10%;
 }
 
+.banner{
+position: absolute;
+background-color:#c6efd3; 
+width: 100%;
+height:89%;
+}
 
 
 
